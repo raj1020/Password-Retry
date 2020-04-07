@@ -6,7 +6,7 @@ namespace Password_retry
     {
         static void Main(string[] args)
         {
-            string correctPassword = "BigfootWasHere!";
+            string correctPassword = "Hey Raam Hey Raam";
             
 
             for (int attemptsRemaining=3; attemptsRemaining >0; attemptsRemaining-- )
